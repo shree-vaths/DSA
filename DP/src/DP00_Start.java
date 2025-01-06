@@ -18,5 +18,8 @@ public class DP00_Start {
 	 * Try to represent using index
 	 * 
 	 * Greedy only works when values are differ by same interval like 10,20,30 but not for 10,30,70,120
+	 * If there are many ways in the next step go for recursion
+	 * 
+	 * Always write out of bound base cases then go for destination bound cases
 	 */
 }
