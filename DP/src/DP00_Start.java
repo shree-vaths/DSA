@@ -21,5 +21,15 @@ public class DP00_Start {
 	 * If there are many ways in the next step go for recursion
 	 * 
 	 * Always write out of bound base cases then go for destination bound cases
+	 * 
+	 * Subset and subsquence in Array
+	 * Subarry and and substring in Strings
+	 * 
+	 * 
+	 * Not Doing -
+	 * DP31 - Shortest supersequence
+	 * DP45 - Longest String Chain
+	 * DP46 - Longest Bitonic Subsequence
+	 * DP47 - No of LIS
 	 */
 }
