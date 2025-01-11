@@ -35,5 +35,8 @@ public class Time_Space {
 	 * or input space to in which inputs are stored.
 	 * All extra things we do to calculate comes under auxillary.
 	 * Never change given input data to store extra memory
+	 * The recursive function calls at same level dont exists at same time in the stack
+	 * Only linked function calls like parent and child exists at a time
+	 * So the space complexity if height of the tree from top to bottom of longest path.
 	 */
 }
