@@ -1,5 +1,9 @@
 import java.util.*;
 
+// https://www.youtube.com/watch?v=bZkzH5x0SKU&t=97s
+// This will not with atleast one negative edge
+// This will not also work with negative cycle
+
 class DijkPair implements Comparable<DijkPair>{
 	int index;
 	int distance;
