@@ -1,6 +1,7 @@
 import java.util.*;
 
 // https://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/
+// repetation is allowed but but at most k unique chars
 public class SW06_Long_Substring_K_Distinct_Char {
 
 	public static void main(String[] args) {
@@ -25,7 +26,7 @@ public class SW06_Long_Substring_K_Distinct_Char {
 			
 			while(map.size() > k) {
 				char oldCh = str.charAt(l);
-				map.put(ch, map.get(oldCh)-1);
+				map.put(ch, map.get(oldCh)-1); 
 				l++;
 				if(map.get(oldCh) == 0) {
 					map.remove(oldCh);

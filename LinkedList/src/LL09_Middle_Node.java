@@ -1,4 +1,5 @@
 // O(N/2)
+// https://leetcode.com/problems/middle-of-the-linked-list/submissions/1520417458/
 public class LL09_Middle_Node {
 
 	public static void main(String[] args) {

@@ -1,4 +1,10 @@
 // O(N)
+/*
+ * We know the fast pointer travels twice as fast, so:
+	2(x+y) = x + y + n(y+z)
+ */
+
+// https://leetcode.com/problems/linked-list-cycle-ii/description/
 public class LL13_Find_Starting_Loop {
 
 	public static void main(String[] args) {

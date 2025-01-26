@@ -1,6 +1,5 @@
-//
-
 // We can use stack while moving forward and then pop all items to create new list
+// https://leetcode.com/problems/reverse-linked-list/submissions/1520398571/
 public class LL06_Reverse {
 
 	public static void main(String[] args) {

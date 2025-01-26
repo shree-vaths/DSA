@@ -13,6 +13,8 @@ With negative numbers, adding an element might decrease the sum, and removing an
 This means you can't reliably determine whether to expand or shrink the window based solely on the current sum.
 
 	* Longest subarray with sum k where all items are positive can be solved using two pointers
+	* 
+	* If we are storing index then we can by that index using one if statement else use while loop until condition is met
 	 */
 
 }

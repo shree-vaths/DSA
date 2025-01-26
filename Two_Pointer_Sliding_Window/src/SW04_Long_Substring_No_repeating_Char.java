@@ -2,6 +2,7 @@ import java.util.*;
 
 // O(N)
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+// No repetition and unique chars
 public class SW04_Long_Substring_No_repeating_Char {
 
 	public static void main(String[] args) {

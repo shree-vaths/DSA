@@ -1,4 +1,4 @@
-
+// https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 public class LL10_Remove_Middle {
 
 	public static void main(String[] args) {
