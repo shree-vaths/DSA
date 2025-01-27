@@ -9,3 +9,5 @@ https://leetcode.com/problems/linked-list-cycle/description/
 https://leetcode.com/problems/linked-list-cycle-ii/submissions/1520479910/
 https://leetcode.com/problems/rotate-list/description/ ++
 https://leetcode.com/problems/merge-two-sorted-lists/submissions/1520713341/
+https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1521312109/
+https://leetcode.com/problems/design-browser-history/description/
