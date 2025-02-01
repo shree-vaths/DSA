@@ -15,19 +15,19 @@ class G09_Pair{
 public class G11_Undirected_Cycle_DFS {
 
 	public static void main(String[] args) {
+//		int[][] graph = {
+//				{0,1,1,0},
+//				{1,0,1,0},
+//				{1,1,0,1},
+//				{0,0,1,0}
+//		};
+		
 		int[][] graph = {
-				{0,1,1,0},
-				{1,0,1,0},
+				{0,0,1,0},
+				{0,0,1,0},
 				{1,1,0,1},
 				{0,0,1,0}
 		};
-		
-//		int[][] graph = {
-//				{0,1,1,0},
-//				{1,0,0,0},
-//				{1,0,0,1},
-//				{0,0,1,0}
-//		};
 		
 		System.out.println(cycle(graph));
 	}
